@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ideaspace.iml" filepath="$PROJECT_DIR$/ideaspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/etlTool.iml" filepath="$PROJECT_DIR$/etlTool.iml" />
     </modules>
   </component>
 </project>
